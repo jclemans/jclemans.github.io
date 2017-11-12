@@ -36,4 +36,3 @@ var personal = new Vue({
     countries: ['Spain', 'Myanmar', 'France', 'Belgium', 'Nicaragua', 'Guatemala', 'Mexico', 'Canada']
   }
 })
-

@@ -3,7 +3,7 @@ var intro = new Vue({
   data: {
     title: 'Hi, my name is Jeremy Clemans',
     intro: "I live in Portland, Oregon, and am a software engineer who enjoys working with Ruby on Rails and JavaScript. This site is built using Vue.js!",
-    bio: "My first computer was an Apple II clone in the mid eighties. It had 64k of memory and a monochrome screen. My brother and I would write weird programs in BASIC and I learned to navigate and use DOS. After college I worked for Alaska Airlines doing web tech support, at Microsoft coordinating usability studies, and eventually landed at my first internet startup company (Wetpaint) in 2006. I started going deeper into programming from there; initially learning how to query user data from a SQL database, and write simple scripts to automate repetitive work. I dove full time into coding in 2013/2014, fell in love with the Ruby on Rails ecosystem and have been working as a sofware engineer since then.",
+    bio: "My first computer was an Apple II clone in the mid eighties. It had 64k of memory and a monochrome screen. My brother and I would write weird programs in BASIC and I learned to navigate and use DOS. After college I worked for Alaska Airlines doing web tech support, at Microsoft coordinating usability studies, and eventually landed at my first internet startup company (Wetpaint) in 2006. I started going deeper into programming from there; initially learning how to query user data from a SQL database, and write simple scripts to automate repetitive work. I dove full time into coding in 2013/2014, fell in love with the Ruby on Rails ecosystem and have been working as a software engineer since then.",
   }
 })
 

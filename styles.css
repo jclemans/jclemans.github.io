@@ -5,4 +5,6 @@ body {
     line-height: 1.58;
     letter-spacing: -.003em;
     padding: 0 25% 0 25%;
+} #photo1 {
+	max-width: 80%;
 }

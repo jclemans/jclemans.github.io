@@ -1,44 +1,14 @@
+---
+layout: default
+title: Blog - Jeremy Clemans
+---
 
-<!DOCTYPE html>
-<html>
-<head>
-    <link rel="stylesheet" type="text/css" href="styles.css" />
-    <script src="vue.js"></script>
-    <title>Jeremy Clemans</title>
-</head>
-<body>
-    <div id="links">
-        <a id="email" href="mailto:jer.clemans@gmail.com?subject=Found your github.io page">Contact Me</a>
-    </div>
-    <div id="intro">
-        <h2>{{ title }}</h2>
-        <img id="photo1" src="uke1_smaller.jpg" alt="Jeremy playing a ukulele.">
-        <div>{{ intro }}</div>
-        <p>{{ bio }}</p>
-    </div>
+<div id="home">
+  <h1>Blog Posts</h1>
+  <ul class="posts">
+    {% for post in site.posts %}
+      <li><span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ post.url }}">{{ post.title }}</a></li>
+    {% endfor %}
+  </ul>
+</div>
 
-    <div id="work">
-        <h2>Work History</h2>
-        <div v-for="company in companies">
-            <div>
-                <h3>{{ company.name}}</h3>
-                <h5>{{ company.title}} {{company.years}}</h5>
-                <p>{{ company.description}}</p>
-            </div>
-        </div>
-    </div>
-
-    <div id="personal">
-        <h2>Personal Interests and Hobbies</h2>
-        <ul>
-            <li v-for="interest in interests">{{ interest.text }}</li>
-        </ul>
-
-        <h2>Countries I have visited</h2>
-        <ul>
-            <li v-for="country in countries">{{ country }}</li>
-        </ul>
-    </div>
-    <script src="app.js"></script>
-</body>
-</html>

@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: default
 title:  "Coming Soon"
 date:   2018-01-18 18:31:00 -0800
 ---

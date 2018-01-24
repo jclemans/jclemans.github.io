@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: default
 title:  "Combining Arrays with Ruby’s Array#product Method"
 date:   2018-01-19 13:21:00 -0800
 ---
@@ -21,7 +21,7 @@ card_types = ["Jack", "Queen", "King", "Ace"]
 
 card_suits = [" of Kittens", "of Unicorns"]
 
-card_actions =&nbsp;["move 1", "move 3", "pass"]
+card_actions = ["move 1", "move 3", "pass"]
 ```
 
 Now our method would look like this:
@@ -29,7 +29,30 @@ Now our method would look like this:
 ```
 card_types.product(card_suits, card_actions)
 
-=> [["Jack", " of Kittens", "move 1"], ["Jack", " of Kittens", "move 3"], ["Jack", " of Kittens", "pass"], ["Jack", "of Unicorns", "move 1"], ["Jack", "of Unicorns", "move 3"], ["Jack", "of Unicorns", "pass"], ["Queen", " of Kittens", "move 1"], ["Queen", " of Kittens", "move 3"], ["Queen", " of Kittens", "pass"], ["Queen", "of Unicorns", "move 1"], ["Queen", "of Unicorns", "move 3"], ["Queen", "of Unicorns", "pass"], ["King", " of Kittens", "move 1"], ["King", " of Kittens", "move 3"], ["King", " of Kittens", "pass"], ["King", "of Unicorns", "move 1"], ["King", "of Unicorns", "move 3"], ["King", "of Unicorns", "pass"], ["Ace", " of Kittens", "move 1"], ["Ace", " of Kittens", "move 3"], ["Ace", " of Kittens", "pass"], ["Ace", "of Unicorns", "move 1"], ["Ace", "of Unicorns", "move 3"], ["Ace", "of Unicorns", "pass"]]
+=> [["Jack", " of Kittens", "move 1"], 
+    ["Jack", " of Kittens", "move 3"], 
+    ["Jack", " of Kittens", "pass"], 
+    ["Jack", "of Unicorns", "move 1"], 
+    ["Jack", "of Unicorns", "move 3"], 
+    ["Jack", "of Unicorns", "pass"], 
+    ["Queen", " of Kittens", "move 1"], 
+    ["Queen", " of Kittens", "move 3"], 
+    ["Queen", " of Kittens", "pass"], 
+    ["Queen", "of Unicorns", "move 1"], 
+    ["Queen", "of Unicorns", "move 3"], 
+    ["Queen", "of Unicorns", "pass"], 
+    ["King", " of Kittens", "move 1"], 
+    ["King", " of Kittens", "move 3"], 
+    ["King", " of Kittens", "pass"], 
+    ["King", "of Unicorns", "move 1"], 
+    ["King", "of Unicorns", "move 3"], 
+    ["King", "of Unicorns", "pass"], 
+    ["Ace", " of Kittens", "move 1"], 
+    ["Ace", " of Kittens", "move 3"], 
+    ["Ace", " of Kittens", "pass"], 
+    ["Ace", "of Unicorns", "move 1"], 
+    ["Ace", "of Unicorns", "move 3"], 
+    ["Ace", "of Unicorns", "pass"]]
 ```
 
 ## What if we have an arbitrary number of arrays?
@@ -43,7 +66,22 @@ array_of_arrays = [[1,2], ['a','b'], [true, false], ['etc']]
 
 primary_attributes.product(*array_of_arrays)
 
-=> [["Foo", 1, "a", true, "etc"], ["Foo", 1, "a", false, "etc"], ["Foo", 1, "b", true, "etc"], ["Foo", 1, "b", false, "etc"], ["Foo", 2, "a", true, "etc"], ["Foo", 2, "a", false, "etc"], ["Foo", 2, "b", true, "etc"], ["Foo", 2, "b", false, "etc"], ["Bar", 1, "a", true, "etc"], ["Bar", 1, "a", false, "etc"], ["Bar", 1, "b", true, "etc"], ["Bar", 1, "b", false, "etc"], ["Bar", 2, "a", true, "etc"], ["Bar", 2, "a", false, "etc"], ["Bar", 2, "b", true, "etc"], ["Bar", 2, "b", false, "etc"]]
+=> [["Foo", 1, "a", true, "etc"], 
+    ["Foo", 1, "a", false, "etc"], 
+    ["Foo", 1, "b", true, "etc"], 
+    ["Foo", 1, "b", false, "etc"], 
+    ["Foo", 2, "a", true, "etc"], 
+    ["Foo", 2, "a", false, "etc"], 
+    ["Foo", 2, "b", true, "etc"], 
+    ["Foo", 2, "b", false, "etc"], 
+    ["Bar", 1, "a", true, "etc"], 
+    ["Bar", 1, "a", false, "etc"], 
+    ["Bar", 1, "b", true, "etc"], 
+    ["Bar", 1, "b", false, "etc"], 
+    ["Bar", 2, "a", true, "etc"], 
+    ["Bar", 2, "a", false, "etc"], 
+    ["Bar", 2, "b", true, "etc"], 
+    ["Bar", 2, "b", false, "etc"]]
 ```
 
 I hope this helps someone else as much as it helped me!&nbsp;

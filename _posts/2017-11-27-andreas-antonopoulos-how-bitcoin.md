@@ -1,5 +1,4 @@
 ---
-layout: post
 title:  "Andreas Antonopoulos: How bitcoin is changing the world"
 date:   2017-11-27 12:00:00 -0800
 ---

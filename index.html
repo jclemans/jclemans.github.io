@@ -4,9 +4,10 @@ title: Blog - Jeremy Clemans
 ---
 <div id="home">
   <!-- most recent post -->
-  {% include header.html %}
   {% for post in site.posts limit:1 %}
-    {{ post }}
+    <h2>{{ post.title }}</h2>
+    {{ post.date | date_to_string }}
+    {{ post.content }}
   {% endfor %}
   <h2>Past Posts</h2>
   <ul class="posts">

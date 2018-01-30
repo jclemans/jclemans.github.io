@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title:  "Combining Arrays with Ruby’s Array#product Method"
 date:   2018-01-19 13:21:00 -0800
 ---

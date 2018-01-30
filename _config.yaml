@@ -2,7 +2,7 @@
 name: Jeremy Clemans
 
 # Short description (goes below the title; it will also be used in the RSS feed)
-description: A blog about tech and other things.
+description: Thoughts about tech, tacos, and things.
 
 # Your name, as you want it to appear underneath each post and in the footer
 author: Jeremy Clemans
@@ -18,7 +18,7 @@ category_dir: /
 # Note - if you enable this, and attempt to view your site locally you have to use the baseurl in your local path.
 # Example, you must use http://localhost:4000/path/to/blog
 #baseurl: /path/to/blog 
-baseurl: 
+# baseurl: 
 
 # The URL of your actual domain. This will be used to make absolute links in the RSS feed.
 url: http://jclemans.github.io/
@@ -43,7 +43,7 @@ exclude: [README.markdown, package.json, grunt.js, Gruntfile.js, Gruntfile.coffe
 theme: jekyll-theme-tactile
 
 # Gems
-gems: [jekyll-assets, bootstrap-sass, uglifier]
+plugins: [jekyll-assets, bootstrap-sass, uglifier]
 
 assets:
   digest: false

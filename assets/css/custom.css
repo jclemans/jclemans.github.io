@@ -1,0 +1,21 @@
+#portrait {
+	max-width: 30%;
+	display: inline;
+}
+#email {
+	float: right;
+	font-size: 14px;
+	line-height: 3em;
+	padding-right: 10px;
+}
+.contact {
+	font-size: 0.8em;
+}
+.date {
+	font-style: italic;
+	font-size: 0.8em;
+}
+#container .inner img.image-inline-right {
+	max-width: 50%;
+	padding: 0.5em;
+}

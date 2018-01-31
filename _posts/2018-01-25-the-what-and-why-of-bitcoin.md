@@ -6,7 +6,7 @@ date:   2018-01-25 09:14:00 -0800
 
 ### Prologue
 
-<img class="image-inline-right" src="geeks.jpg" align="right" alt="geeks sitting around a dnd table" title="Freaks and Geeks"/>
+<img class="image-inline-right" src="/assets/images/geeks.jpg" align="right" alt="geeks sitting around a dnd table" title="Freaks and Geeks"/>
 I sit at a large table at a pub near Green Lake in Seattle. People around me spout words like "NAP", "agorism", and "austrian economics". There is a giddiness amoungst the group that find themselves surrounded by like minded freaks and geeks after years of feeling like an outsider. These people are not quite normal. These people are Anarcho-Capitalists. It's November 11, 2009 and I am one of these weirdos.
 
 [Anarcho Capitalism](https://en.wikipedia.org/wiki/Anarcho-capitalism) is essentially a sub-set of libertarianism. Like libertarians they value freedom and protection of individual rights. However, AnCaps have come to the conclusion that any government powerful enough to protect rights will ultimately be corrupted and end up taking rights away (see: history of every government ever). So they say let's just dispense with the whole nation state government idea and work things out peacefully without coercion like civilized people. Radical.

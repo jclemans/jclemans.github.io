@@ -6,7 +6,7 @@ date:   2018-01-25 09:14:00 -0800
 
 ### Prologue
 
-<img class="image-inline-right" src="geeks.jpg" align="right" alt="geeks sitting around a dnd table" title="Freaks and Geeks"/>
+<img class="image-inline-right" src="/assets/images/geeks.jpg" align="right" alt="geeks sitting around a dnd table" title="Freaks and Geeks"/>
 I sit at a large table at a pub near Green Lake in Seattle. People around me spout words like "NAP", "agorism", and "austrian economics". There is a giddiness amoungst the group that find themselves surrounded by like minded freaks and geeks after years of feeling like an outsider. These people are not quite normal. These people are Anarcho-Capitalists. It's November 11, 2009 and I am one of these weirdos.
 
 [Anarcho Capitalism](https://en.wikipedia.org/wiki/Anarcho-capitalism) is essentially a sub-set of libertarianism. Like libertarians they value freedom and protection of individual rights. However, AnCaps have come to the conclusion that any government powerful enough to protect rights will ultimately be corrupted and end up taking rights away (see: history of every government ever). So they say let's just dispense with the whole nation state government idea and work things out peacefully without coercion like civilized people. Radical.
@@ -47,8 +47,11 @@ You may say "that's all well and good, but why should I care?", so here are some
 It's now been about 8 years since I first started paying attention to Bitcoin. A lot has happened - some good, some bad. Here are some of the ongoing challenges and corresponding recommendations:
 
 * Exchanges are potential central points of failure. The good news is that people are hard at work creating **decentralized exchanges**.
+
 * Individuals are susceptible to social engineering/hacks if they are lax in their security. **Don't keep significant amounts of bitcoin or any cryptocurrency in online exchanges. Research and use paper or hardware wallets.**
-* Software forks, developer drama, and uncertainty around regulations. Time will tell here. 
+
+* Software forks, developer drama, and uncertainty around regulations. Time will tell here. Crypto advocates need to start working together effectively to push back against the most unreasonable regulations. If governments continue down a path of regulating everyone into criminality, then the best approach with probably continue to be to innovate around and make regulations irrelevent. This is probably the most likely long term trend. Laws are hard to change, pushing code is faster and easier.
+
 * Transaction backlogs and high transaction fees prevent Bitcoin from being useful for small transactions. **Lightning Network** is currently being tested, which is being hailed as a solution to the network congestion and scaling issues. Lightning Network is an off chain protocol that allows a lot of transactions to be handled off of the main Bitcoin blockchain and only settled up with the main chain periodically. Sort of like a networked bar tab for your bitcoin.
 
 ### Summary

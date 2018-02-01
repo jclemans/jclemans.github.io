@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "The Why of Bitcoin"
-date:   2018-01-25 09:14:00 -0800
+date:   2018-01-31 16:07:00 -0800
 ---
 
 ### Prologue

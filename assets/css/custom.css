@@ -1,3 +1,6 @@
+body p {
+	color: #404040;
+}
 #portrait {
 	max-width: 30%;
 	display: inline;

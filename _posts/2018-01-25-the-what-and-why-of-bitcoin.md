@@ -47,8 +47,11 @@ You may say "that's all well and good, but why should I care?", so here are some
 It's now been about 8 years since I first started paying attention to Bitcoin. A lot has happened - some good, some bad. Here are some of the ongoing challenges and corresponding recommendations:
 
 * Exchanges are potential central points of failure. The good news is that people are hard at work creating **decentralized exchanges**.
+
 * Individuals are susceptible to social engineering/hacks if they are lax in their security. **Don't keep significant amounts of bitcoin or any cryptocurrency in online exchanges. Research and use paper or hardware wallets.**
-* Software forks, developer drama, and uncertainty around regulations. Time will tell here. 
+
+* Software forks, developer drama, and uncertainty around regulations. Time will tell here. Crypto advocates need to start working together effectively to push back against the most unreasonable regulations. If governments continue down a path of regulating everyone into criminality, then the best approach with probably continue to be to innovate around and make regulations irrelevent. This is probably the most likely long term trend. Laws are hard to change, pushing code is faster and easier.
+
 * Transaction backlogs and high transaction fees prevent Bitcoin from being useful for small transactions. **Lightning Network** is currently being tested, which is being hailed as a solution to the network congestion and scaling issues. Lightning Network is an off chain protocol that allows a lot of transactions to be handled off of the main Bitcoin blockchain and only settled up with the main chain periodically. Sort of like a networked bar tab for your bitcoin.
 
 ### Summary

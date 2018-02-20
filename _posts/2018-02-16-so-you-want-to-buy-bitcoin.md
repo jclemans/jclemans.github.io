@@ -4,6 +4,8 @@ title:  "So You Want to Buy Bitcoin"
 date:   2018-02-20 12:00:00 -0800
 ---
 
+<img src="/assets/images/buy-bitcoins.png" alt="buying bitcoins" title="Buying Bitcoin"/>
+
 ### Disclaimers
 
 I'm not your financial advisor. This is not financial advice. I'm just a person on the internet that has opinions and experiences that I will share.

@@ -38,7 +38,7 @@ At the time of writing this, most cryptocurrency prices are tend to move in the 
 
 There is a lot of drama between Bitcoin and Bitcoin Cash supporters regarding which one is the "real" Bitcoin. The split came about due to disagreements on how best to scale the technology. Bitcoin developers wanted to persue off chain scaling solutions like SegWit and Lightning Network. Bitcoin Cash developers wanted to implement bigger block size so that more transactions could fit in each block that gets added to the blockchain every 10 minutes or so. Bitcoin has become a bit like a savings account, and Bitcoin Cash like a checking account. Just keep in mind this analogy is an oversimplification and can easily change as the technology evolves.
 
-#### How much should I buy?
+### How much should I buy?
 
 See rule #1 in the ground rules again. One strategy that is tried and true in investing is called dollar cost averaging. Instead of buying one large sum right now, you can set up automatic recurring purchases of a smaller amount. For example instead of buying $1000 in bitcoin now, you could buy $100 and set that transaction to repeat once a month. This helps to prevent the notorious volatility from biting you in the ass. A downside is that you will pay more in transaction fees averaging in over multiple transactions.
 
@@ -58,6 +58,7 @@ Start small, don't act on fear, take it slow, learn as you go, be smart and secu
 * [Bitcoin for Beginners](https://www.youtube.com/playlist?list=PLPQwGV1aLnTuN6kdNWlElfr2tzigB9Nnj) Playlist
 * [Banking on Bitcoin](https://youtu.be/ye6FNiDci38) Documentary (also available on Netflix)
 * [Bitcoin History: From the Cypherpunk Movement to JPMorgan Chase](https://youtu.be/apYieuvnUaE) History Lecture
+* [Boxmining](https://www.youtube.com/channel/UCxODjeUwZHk3p-7TU-IsDOA/videos) YouTube channel - nice daily updates
 
 #### Podcasts
 

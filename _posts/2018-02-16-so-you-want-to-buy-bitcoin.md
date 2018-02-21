@@ -12,7 +12,7 @@ I'm not your financial advisor. This is not financial advice. I'm just a person 
 
 ### Ground Rules
 
-Before you dive in, please read and take these ground rules to heart. Anyone that has lost money buying and selling cryptocurrencies will tell you that if they had followed these basic rules they would probably be much better off today. I personally broke rule #4 and lost a lot of coins that I left of shady exchanges early on. Now I generally allow no more than 10% of my coins to be left on exhanges.
+Before you dive in, please read and take these ground rules to heart. Anyone that has lost money buying and selling cryptocurrencies will tell you that if they had followed these basic rules they would probably be much better off today. I personally broke rule #4 and lost a lot of coins that I left on shady exchanges early on (farewell dogecoins!). Now I generally allow no more than 10% of my coins to be left on exhanges. If none of these words make sense, don't worry, read on.
 
 1. Never invest more than you are comfortable losing. Some people are OK risking $5, some $10,000. Decide what works for you.
 2. Don't make a decision based on emotion - especially FEAR. Fear of missing out (FOMO) when news is positive and prices are soaring, or fear of losing your money when news is negative and prices are dropping. Emotions are easily manipulated. Take a deep breath and take your time.
@@ -21,7 +21,9 @@ Before you dive in, please read and take these ground rules to heart. Anyone tha
 
 ### Where to Buy Bitcoin
 
-If you are in the U.S. one of the easiest places to buy Bitcoin, Bitcoin Cash, Ethereum, or Litecoin is on Coinbase. These primary cryptocurrencies can then be used later if you develop an interest in other alt coins or ICOs (initial coin offerings). Other popular exchanges include Binance, Bitstamp, Gemini, and Kraken. But if you are new to all this, Coinbase is likely your easiest entry point. If you decide to use Coinbase, use this [Coinbase invite link](https://www.coinbase.com/join/52b0baea9daf6e3c400000b8) and we will both get $10 of free bitcoin if you buy or sell $100 worth of any of their supported cryptocurrencies.
+First, if you are wondering why would anyone want to buy bitcoin. Go back and read my previous post - [The Why of Bitcoin](https://jclemans.github.io/2018/01/31/the-why-of-bitcoin/).
+
+If you are in the U.S. one of the easiest places to buy Bitcoin, Bitcoin Cash, Ethereum, or Litecoin is on Coinbase. Coinbase is an exchange (like a brokerage) located in the U.S., and accounts there are FDIC insured like banks are. They have growing pains now and then, but are very reputable. The four cryptocurrencies they support can then be used later if you develop an interest in other cryptocurrencies or ICOs (initial coin offerings). Other popular exchanges include Binance, Bitstamp, Gemini, and Kraken. But if you are new to all this, Coinbase is likely your easiest entry point. If you decide to use Coinbase, use this [Coinbase invite link](https://www.coinbase.com/join/52b0baea9daf6e3c400000b8) and we will both get $10 of free bitcoin if you buy or sell $100 worth of any of their supported cryptocurrencies.
 
 ### Which Cryptocurrency Should I Buy?
 
@@ -42,9 +44,7 @@ See rule #1 in the ground rules again. One strategy that is tried and true in in
 
 ### Summary
 
-Start small, don't act on fear, take it slow, learn as you go, be smart and secure. Have fun!
-
-#### For further learning here are some resources that I have found valuable:
+Start small, don't act on fear, take it slow, learn as you go, be smart and secure. Have fun! If you'd like to learn more here are some resources that I have found valuable:
 
 #### News, Essays, Blogs
 

@@ -17,7 +17,7 @@ Entire libraries could be filled with books on this topic. Historically, whether
 > 2. Portability - Transporting money needs to be easy so that trading large amounts of wealth over large distances is convenient.
 > 3. Divisibility - You don't want to be forced to buy a stick of gum  with a $100 bill. Thus we have dollars, quarters, and pennies in order  to accurately describe the price of an item or service.
 > 4. Fungibility/Uniformity - If some dollars are deemed more valuable  than others it undermines our ability to transact with each other.
-> 5. Limited Supply - Money supply that is inflated infinitely causes the > value to drop infinitely closer to zero.
+> 5. Limited Supply - Money supply that is inflated infinitely causes the value to drop infinitely closer to zero.
 > 6. Acceptability - Social norms or laws cause us to converge around common mediums of exhange that vary by culture.
 
 ### Will we always need money?
@@ -45,13 +45,13 @@ As the technology of money progresses, the capabilities of money also begin to t
 
 To review:
 
-> 1. Money is information
-> 2. Exchange of money is a communication protocol 
-> 3. Decentralized communication/information can't be controlled or stopped
+> 1. Money is an information communication protocol
+> 2. Bitcoin/crytpocurrencies are decentralized digital money
+> 3. Decentralized information and communication can't be controlled or stopped
 
-What does it mean to have exchange that can't be controlled?
+What does it mean to have money that can't be controlled?
 
-The monopoly control of money through the central banking and nation state model will come to an end (or just become largely irrelevant) at some point in the future. Kings and countries used to dictate the "right" religion. Dictating the "right" money will go the same route, and people in the future will look back on countries issuing and controlling money as a sort of financial dark age. The right to choose your money and transact freely will be as expected as the right to choose your religion or express ideas.
+The monopoly control of money through the central banking and nation state model will come to an end (or just become largely irrelevant) at some point in the future. Kings and countries used to dictate the "right" religion. Dictating the "right" money will go the same route, and people in the future will look back on countries issuing and controlling money as a sort of financial dark age. The right to choose your money and transact freely will be as expected as the right to choose your religion or express your thoughts and ideas.
 
 
 
